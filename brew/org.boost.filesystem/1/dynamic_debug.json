@@ -1,0 +1,18 @@
+{
+  "librootVersion": "0.1.0",
+  "language": "c++11",
+  "version": "1.78.0",
+  "includes": [
+    "/usr/local/include"
+  ],
+	"definitions": [
+		["BOOST_FILESYSTEM_DYN_LINK", ""]
+	],
+  "binary": "/usr/local/lib/libboost_filesystem-mt.dylib",
+	"deps": {
+		"org.boost.atomic": {
+			"version": "1.78.0",
+			"type": "dynamic"
+		}
+	}
+}

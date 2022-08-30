@@ -1,0 +1,15 @@
+{
+  "language": "c++11",
+  "version": "1.78.0",
+  "includes": [
+    "/usr/local/include"
+  ],
+  "binary": "/usr/local/lib/libboost_log-mt.a",
+  "deps": {
+    "org.boost.thread": {
+      "version": "1.78.0",
+      "type": "static"
+    }
+  },
+  "librootVersion": "0.1.0"
+}
