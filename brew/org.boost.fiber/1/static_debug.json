@@ -1,4 +1,5 @@
 {
+	"language": "c++11",
   "includes": [
     "/usr/local/include"
   ],
