@@ -1,0 +1,5 @@
+{
+	"language": "c++03",
+	"binary": "thread",
+	"dyn_link": "BOOST_THREAD_DYN_LINK"
+}

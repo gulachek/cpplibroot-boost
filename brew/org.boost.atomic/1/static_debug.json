@@ -1,9 +1,0 @@
-{
-  "language": "c++11",
-  "version": "1.78.0",
-  "includes": [
-    "/usr/local/include"
-  ],
-  "binary": "/usr/local/lib/libboost_atomic-mt.a",
-  "librootVersion": "0.1.0"
-}

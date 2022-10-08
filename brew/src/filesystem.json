@@ -1,0 +1,6 @@
+{
+	"language": "c++03",
+	"dyn_link": "BOOST_FILESYSTEM_DYN_LINK",
+	"deps": ["atomic"],
+	"binary": "filesystem"
+}

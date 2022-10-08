@@ -1,0 +1,5 @@
+{
+	"language": "c++03",
+	"binary": "unit_test_framework",
+	"dyn_link": "BOOST_TEST_DYN_LINK"
+}

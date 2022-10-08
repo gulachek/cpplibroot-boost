@@ -1,0 +1,6 @@
+{
+	"language": "c++11",
+	"deps": ["context", "filesystem"],
+	"dyn_link": "BOOST_FIBERS_DYN_LINK",
+	"binary": "fiber"
+}

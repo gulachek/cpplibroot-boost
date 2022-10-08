@@ -1,0 +1,6 @@
+{
+	"language": "c++03",
+	"dyn_link": "BOOST_LOG_DYN_LINK",
+	"binary": "log",
+	"deps": ["thread"]
+}

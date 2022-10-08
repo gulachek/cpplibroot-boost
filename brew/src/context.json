@@ -1,0 +1,5 @@
+{
+	"language": "c++11",
+	"dyn_link": "BOOST_CONTEXT_DYN_LINK",
+	"binary": "context"
+}
