@@ -1,0 +1,1 @@
+{"librootVersion":"0.1.0","language":"c++11","includes":["/usr/local/include"],"version":"1.78.0","binary":"/usr/local/lib/libboost_fiber-mt.a","deps":{"org.boost.context":{"type":"static","version":"1.78.0"},"org.boost.filesystem":{"type":"static","version":"1.78.0"},"org.boost.headers":{"type":"static","version":"1.78.0"}}}

@@ -51,8 +51,7 @@ cmd.command('build')
 
 		for (const isDebug of [true, false]) {
 			const debugType = isDebug ? 'debug' : 'release';
-			const fname = `${type}_${debugType}.json`;
-
+			const fname = `output/${type}_${debugType}.json`;
 			fs.writeFileSync(fname, JSON.stringify(libroot));
 		}
 	}
