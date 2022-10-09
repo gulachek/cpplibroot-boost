@@ -1,13 +1,13 @@
 const { Command } = require('commander');
 const fs = require('fs');
 
-const version = '1.78.0';
+const version = '1.80.0';
 
 const cmd = new Command();
 cmd
 	.name('gen')
 	.description('generate brew boost cpplibroot')
-	.version('1.78.0');
+	.version(version);
 
 cmd.command('build')
 .argument('library <lib>', 'Name of boost library to generate')
