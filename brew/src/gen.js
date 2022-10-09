@@ -28,9 +28,6 @@ cmd.command('build')
 
 		if (props.binary) {
 			libroot.binary = `${opts.prefix}/lib/libboost_${props.binary}-mt.${ext}`;
-
-			// assume we depend on boost headers
-			props.deps.push('headers');
 		}
 
 		if (isDynamic && props.dyn_link) {
