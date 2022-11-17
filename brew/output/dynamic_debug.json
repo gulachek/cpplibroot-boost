@@ -1,1 +1,0 @@
-{"librootVersion":"0.1.0","language":"c++11","includes":["/usr/local/include"],"version":"1.78.0","binary":"/usr/local/lib/libboost_fiber-mt.dylib","definitions":[["BOOST_FIBERS_DYN_LINK",""]],"deps":{"org.boost.context":{"type":"dynamic","version":"1.78.0"},"org.boost.filesystem":{"type":"dynamic","version":"1.78.0"},"org.boost.headers":{"type":"dynamic","version":"1.78.0"}}}

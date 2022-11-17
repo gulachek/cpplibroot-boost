@@ -1,0 +1,6 @@
+{
+	"language": "c++11",
+	"dyn_link": "BOOST_JSON_DYN_LINK",
+	"deps": ["container"],
+	"binary": "json"
+}

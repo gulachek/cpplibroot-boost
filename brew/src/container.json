@@ -1,0 +1,5 @@
+{
+	"language": "c++03",
+	"dyn_link": "BOOST_CONTAINER_DYN_LINK",
+	"binary": "container"
+}
