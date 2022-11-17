@@ -49,6 +49,7 @@ cmd.command('build')
 		for (const isDebug of [true, false]) {
 			const debugType = isDebug ? 'debug' : 'release';
 			const fname = `output/${type}_${debugType}.json`;
+			fs.mkdirSync('output', { recursive: true });
 			fs.writeFileSync(fname, JSON.stringify(libroot));
 		}
 	}
